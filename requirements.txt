@@ -1,0 +1,32 @@
+# Insurance Risk Analytics & Claims Prediction
+# Python Dependencies
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=3.0.0
+lightgbm>=4.0.0
+
+# Hyperparameter Optimization
+optuna>=3.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+joblib>=1.3.0
+tqdm>=4.65.0
+
+# Jupyter (for notebooks)
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+
+# Code Quality (optional)
+black>=23.0.0
+flake8>=6.0.0

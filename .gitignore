@@ -1,0 +1,59 @@
+# Data files - contains sensitive insurance data
+data/
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Model artifacts (large files)
+*.pkl
+*.h5
+*.joblib
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Environment variables
+.env
+.env.local
+
+# Claude
+.claude/
+
+# Archive (old files, kept local only)
+archive/
